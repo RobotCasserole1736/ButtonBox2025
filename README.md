@@ -15,7 +15,7 @@ Four buttons, plus a 12-position switch. Two TBD slots, likely to be switches at
 
 # Case
 
-3d printed. **Onshape model here.**
+3d printed. [Onshape model here.](https://cad.onshape.com/documents/869acc283b4ba9cf722a7f24/w/f1bf797406fabe92c85b2bc6/e/4f9baf0fe7687c51c3f60388)
 
 Designed to bolt to a driver station or something like that. 
 
