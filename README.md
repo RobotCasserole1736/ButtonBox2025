@@ -53,5 +53,10 @@ Again, which button goes with which position on the chickenhead knob depends on 
 
 Indices increase _counterclockwise_.
 
+# Fancy Pictures
+
+![PXL_20250124_204141088](https://github.com/user-attachments/assets/ca581af8-fa5e-4dc7-b58a-ad8763fb0f3f)
 
 
+
+![PXL_20250124_204133635](https://github.com/user-attachments/assets/2d9d623d-3628-4adf-9ec3-3a46be1b5fe3)
